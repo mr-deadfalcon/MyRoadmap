@@ -1,3 +1,6 @@
+- Stepic. Программирование на Python  
+https://stepik.org/course/67/promo
+
 -  Учебник «Основы HTML с нуля»  
 https://okmysite.com/html/html_uchebnik/html_uchebnik.html
 
