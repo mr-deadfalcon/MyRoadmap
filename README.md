@@ -27,6 +27,6 @@ https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y
 - [ ] Подробный видео курс по Bootstrap 5 на русском языке, Как создать сайт на Bootstrap 5.  
 https://www.youtube.com/watch?v=CvMxvb2D8Iw
 
-- [ ] Bootstrap CSS
+- [ ] Bootstrap CSS  
 https://www.youtube.com/playlist?list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz
 
