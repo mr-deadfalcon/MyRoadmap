@@ -30,5 +30,3 @@ https://www.youtube.com/watch?v=CvMxvb2D8Iw
 - [ ] Bootstrap CSS
 https://www.youtube.com/playlist?list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz
 
-- (просто посмотреть)
-https://www.youtube.com/watch?v=VJl8_jJfjGg
