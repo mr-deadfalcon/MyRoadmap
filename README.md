@@ -1,6 +1,4 @@
-- [x] Stepic. Программирование на Python  
-https://stepik.org/course/67/promo
-
+## HTML
 - [x] Учебник «Основы HTML с нуля»  
 https://okmysite.com/html/html_uchebnik/html_uchebnik.html
 
@@ -12,6 +10,10 @@ https://www.youtube.com/watch?v=DOEtVdkKwcU
 
 - [x] Минин В. "CSS для Начинающих - Практический Курс"  
 https://www.youtube.com/watch?v=SpCUuyZZTp8
+
+## PYTHON
+- [x] Stepic. Программирование на Python  
+https://stepik.org/course/67/promo
 
 - [ ] Django. Полный курс 2021  
 https://www.youtube.com/playlist?list=PLmC7X4gkQWCeyIdLxHZdts-3tkcrxP4-o
