@@ -28,5 +28,5 @@ https://www.youtube.com/playlist?list=PLAk6CfuV7hyooMRqhHAO9-Gt6kOQqM_-Y
 https://www.youtube.com/watch?v=CvMxvb2D8Iw
 
 - [ ] Bootstrap CSS  
-https://www.youtube.com/playlist?list=PLU0nVsJXPyy_nzjcojRdasNJQvlJzocjz
+https://www.youtube.com/playlist?list=PLuY6eeDuleINmJ4DV22gtPL4--HQ49Df3
 
