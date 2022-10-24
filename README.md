@@ -15,8 +15,11 @@ https://www.youtube.com/watch?v=SpCUuyZZTp8
 - [x] Stepic. Программирование на Python  
 https://stepik.org/course/67/promo
 
-- [ ] Django. Полный курс 2021  
+- [X] Django. Полный курс 2021  
 https://www.youtube.com/playlist?list=PLmC7X4gkQWCeyIdLxHZdts-3tkcrxP4-o
+
+- [ ] Django. Пркактический курс  
+https://www.youtube.com/playlist?list=PLmC7X4gkQWCeYJeFQID3m1f5I6SZgH9Vv
 
 - [ ] Дронов В. - Django 3.0. Практика создания веб-сайтов на Python (PDF)
 
