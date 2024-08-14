@@ -1,13 +1,17 @@
 На первое время:  
-1) Линукс - Библия Линукс.  
-2) Докер  
-3) Кубер
-4) Ansible
-5) Python  
-6) S3
-7) PostgreSQL  
-8) GIT CI/CD
-9) Jenkins
+1) Линукс - Библия Линукс.
+2) XEN | QEMY/KVM
+3) Libvirt
+4) Докер  
+5) Кубер
+6) Ansible
+7) Python  
+8) S3
+9) PostgreSQL  
+10) GIT CI/CD
+11) Jenkins
+
+Посмотреть и попробовать переделать XCP-NG  
 
 На будущее:  
 OS: CentOS, Ubuntu, Debian  
