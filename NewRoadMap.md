@@ -33,3 +33,15 @@ WEB-Сервера: Apache, Nginx
 Инспекция кода: SonarQube  
 Технологии: REST, JSON, Python Django  
 
+Из других вакансий:  
+• RHEL, Windows Server, Ubuntu, VMware ESXi;  
+• Corosync/Pacemaker, KeepAlived, HAproxy, Zookeeper, Microsoft Failover Cluster, Veritas Cluster Server(InfoScale HA), Veritas Storage Foundation High Availability(InfoScale EE);  
+• Docker Swarm/Kubernetes, OpenShift;  
+• influxDB, MariaDB, Percona, PostgreSQL, Redis, MSSQL;  
+• ELK, GlusterFS, Ceth FS;  
+• GitLab, Jenkins, Ansible;  
+• Zabbix, Prometheus, Grafana;  
+• IBM Websphere MQ, IBM Integration BUS (App Connect), Kafka, Fuse.  
+
+
+
