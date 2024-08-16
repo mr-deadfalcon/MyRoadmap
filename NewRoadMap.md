@@ -1,15 +1,16 @@
 На первое время:  
-1) Линукс - Библия Линукс.
-2) XEN | QEMY/KVM
-3) Libvirt
-4) Докер  
-5) Кубер
-6) Ansible
-7) Python  
-8) S3
-9) PostgreSQL  
-10) GIT CI/CD
-11) Jenkins
+1) Линукс - Библия Линукс.  
+2) Bash
+3) XEN | QEMY/KVM
+4) Libvirt
+5) Докер  
+6) Кубер
+7) Ansible
+8) Python  
+9) S3
+10) PostgreSQL  
+11) GIT CI/CD
+12) Jenkins
 
 Посмотреть и попробовать переделать XCP-NG  
 
